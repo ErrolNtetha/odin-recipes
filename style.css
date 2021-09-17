@@ -1,0 +1,40 @@
+body {
+    background-color: lemonchiffon;
+}
+
+/* Home Page style */
+
+h1 {
+    text-align: center;
+    text-decoration: underline;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.navLinks {
+    list-style-type: none;
+}
+
+.navLinks a {
+    text-decoration: none;
+    color:black
+}
+
+.navLinks a:hover {
+    color: #fff;
+    font-size: 18px;
+    background-color: indigo;
+    border-radius: 10px;
+    padding: 2px 10px;
+}
+
+/* Home Pork Tacos style */
+
+h1 {
+    text-align: center;
+    color: red;
+}
+
+/* Home Chicken Poccata style */
+
+/* Home Chicken Shwarma style */
+
