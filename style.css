@@ -4,6 +4,7 @@ body {
 
 /* Home Page style */
 
+
 h1 {
     text-align: center;
     text-decoration: underline;
@@ -31,10 +32,17 @@ h1 {
 
 h1 {
     text-align: center;
-    color: red;
+    color: black;
 }
 
-/* Home Chicken Poccata style */
+#listTacos {
+    list-style: none;
+}
+
+/* Home Chicken Piccata style */
+
+img {
+    border: black solid 1px;
+}
 
 /* Home Chicken Shwarma style */
-
